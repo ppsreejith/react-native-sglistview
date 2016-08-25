@@ -48,5 +48,6 @@ Carthage/Build
 # ignore the config.js file since it contains sensitve information
 example/config/clientId.js
 
+node_modules/
 
 npm-debug.log
